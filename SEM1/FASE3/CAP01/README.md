@@ -34,6 +34,18 @@ Está atividade têm como objetivo realizar as seguintes atividades:
 ## 📜 Processo de importação dos dados
 <img width="1918" height="1196" alt="image" src="https://github.com/user-attachments/assets/de7470c1-9026-4498-b6ce-ea77e259ad8b" />
 
+## 📜 Processo de importação dos dados
+<img width="1915" height="1196" alt="image" src="https://github.com/user-attachments/assets/b62956cd-661c-4acd-a565-cc2c632af7c5" />
+
+## 📜 Definição das colunas
+<img width="1917" height="1195" alt="image" src="https://github.com/user-attachments/assets/b70fc806-1cb5-4efc-b4b9-9ae5def6479d" />
+
+## 📜 Padronização do nome das colunas em MAIÚSCULO
+<img width="1912" height="1197" alt="image" src="https://github.com/user-attachments/assets/edf88714-766f-4cf4-8357-6837f261e8a1" />
+
+## 📜 Base de Dados importada com sucesso
+<img width="1917" height="1192" alt="image" src="https://github.com/user-attachments/assets/52e48c8b-7e88-4963-88c6-8cd9bb4f92a9" />
+
 ## 📜 Evidências do select * from
 <img width="1630" height="1013" alt="image" src="https://github.com/user-attachments/assets/ee9c998c-bef4-4964-bc87-170fd67261cf" />
 
