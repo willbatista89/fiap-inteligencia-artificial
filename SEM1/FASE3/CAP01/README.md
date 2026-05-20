@@ -25,6 +25,15 @@ Está atividade têm como objetivo realizar as seguintes atividades:
 - Importar a base de dados csv com as informações dos sensores;
 - Realizar consultas na base de dados Oracle.
 
+## 📜 Base de Dados CSV com as coletas dos sensores
+<img width="1913" height="1187" alt="image" src="https://github.com/user-attachments/assets/069d0da2-8258-4f9d-bd8a-93f5564c0931" />
+
+## 📜 Conexão com sucesso na base de dados Oracle
+<img width="1916" height="1192" alt="image" src="https://github.com/user-attachments/assets/32c472c4-db73-4ae9-8e38-bde3dc52f31e" />
+
+## 📜 Processo de importação dos dados
+<img width="1918" height="1196" alt="image" src="https://github.com/user-attachments/assets/de7470c1-9026-4498-b6ce-ea77e259ad8b" />
+
 ## 📜 Evidências do select * from
 <img width="1630" height="1013" alt="image" src="https://github.com/user-attachments/assets/ee9c998c-bef4-4964-bc87-170fd67261cf" />
 
