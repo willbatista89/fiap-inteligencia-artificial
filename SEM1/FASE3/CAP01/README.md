@@ -49,7 +49,7 @@ Está atividade têm como objetivo realizar as seguintes atividades:
 ## 📜 Evidências do select * from
 <img width="1630" height="1013" alt="image" src="https://github.com/user-attachments/assets/ee9c998c-bef4-4964-bc87-170fd67261cf" />
 
-## 📜 Evidências do select * from com resultados acima de 600 e order by crescente
+## 📜 Evidências do select * from com resultados acima de 600 do PH e order by crescente
 <img width="1633" height="1012" alt="image" src="https://github.com/user-attachments/assets/3adb3782-07c3-45ea-91df-c6d137958844" />
 
 ## 📜 Evidências do select * from order by crescente
