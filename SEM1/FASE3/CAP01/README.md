@@ -9,10 +9,10 @@
 # Cap. 01 — Etapas de uma Máquina Agrícola
 
 ## 👨‍🎓 Integrantes:
-- Willian Batista De Oliveira Silva (RM RM571013)
-- Daniel Corrêa (RM RM572559)
+- Willian Batista De Oliveira Silva (RM571013)
+- Daniel Corrêa (RM572559)
 - Kaique Savi (RM 562072)
-- Pedro Henrique do Nascimento (RM RM565326)
+- Pedro Henrique do Nascimento (RM565326)
 - Vinícius Camargo (RM571574 )
 
 ## 📜 Descrição
