@@ -1,1 +1,0 @@
-# fiap-inteligencia-artificial
