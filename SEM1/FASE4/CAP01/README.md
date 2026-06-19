@@ -48,9 +48,6 @@ Desenvolver um pipeline de ML completo capaz de:
 
 ---
 
-## 📊 Métricas de Avaliação do Modelo
-
-
 
 ---
 
@@ -74,24 +71,6 @@ Implementar modelos de regressão para sugerir ações agrícolas como:
 - Necessidade de fertilização
 - Estimativa de rendimento da lavoura
 - Otimização de recursos agrícolas
-
----
-
-## 📈 Previsão de Irrigação (Simulação de Cenários)
-
-
-
----
-
-## 🌱 Importância das Variáveis no Modelo
-
-
-
----
-
-## 📊 Correlação entre Produção e Irrigação
-
-
 
 ---
 
